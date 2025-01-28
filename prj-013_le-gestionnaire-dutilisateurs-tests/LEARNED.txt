@@ -1,0 +1,10 @@
+Basic command line CRM.
+CRUD based functions to interact with database.
+
+Learned:
+- Test Driven Developement. Think before coding
+- TinyDB basics
+- Database basics
+- How to use dictionaries more in depth
+- Faker basics
+- Further develop class and function knowledge

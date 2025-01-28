@@ -1,0 +1,31 @@
+Acceptance Criteria (ACs)
+
+Core Features
+	x.	Add a Customer:
+	x	I can add a new customer to the system with their first name, last name, address, and phone number.
+	x	The system validates the input to ensure all required fields are provided and correctly formatted.
+	x.	View Customers:
+	x	I can view all stored customers.
+	x	Each customer’s full name, address, and phone number are displayed.
+	x.	Validate Customer Data:
+	x	Names must not contain invalid characters or be empty.
+	x	Phone numbers must be numeric and follow the format (e.g., 10 digits).
+
+	x.	Update Customer Details:
+	x	I can update a customer’s information (e.g., address or phone number).
+
+	x.	Delete a Customer:
+	x	I can delete an existing customer.
+	x	If a customer is deleted, they are removed from the database and no longer retrievable.
+
+Database Behavior
+	x.	Prevent Duplicate Customers:
+	x	The system does not allow adding duplicate customers with identical first name, last name, address, and phone number.
+	x.	Persistent Storage:
+	x	Customer data is saved in the database (db.json) and persists between application sessions.
+
+Error Handling
+	x.	Error Messages for Invalid Input:
+	x	If I provide invalid input (e.g., an empty name or an invalid phone number), the system shows a meaningful error message.
+	x.	Duplicate Handling:
+	x	If I try to add a duplicate customer, the system notifies me instead of adding them again.
