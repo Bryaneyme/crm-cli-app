@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80bf3b8c-8e80-48b3-8e08-b221d6db8355" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/Acceptance Criteria.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Acceptance Criteria.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/class_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/coverage_html_cb_6fb7b396.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/database_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/favicon_32_cb_58284776.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/function_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/keybd_closed_cb_ce680311.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/status.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/style_cb_8e611ae1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/test_database_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/test_user_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prj-013_le-gestionnaire-dutilisateurs-tests/htmlcov/user_py.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Bryaneyme"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Bryaneyme/crm-cli-app.git",
+    "accountId": "248cce79-0f59-4b5f-8d57-1e44a8d8f346"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2sIW5uCDKqTT2OGXpGCtSoKFHGN" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/bryaneyme/Documents/GitHub/crm-cli-app"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80bf3b8c-8e80-48b3-8e08-b221d6db8355" name="Changes" comment="" />
+      <created>1738143389848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738143389848</updated>
+    </task>
+    <servers />
+  </component>
+</project>
