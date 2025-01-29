@@ -8,3 +8,4 @@ Learned:
 - How to use dictionaries more in depth
 - Faker basics
 - Further develop class and function knowledge
+- VCS basics and how to use GitHub, GitHub Desktop, and the integrated features in PyCharm.
