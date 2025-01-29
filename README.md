@@ -1,4 +1,5 @@
 Basic Python CRM app built with TinyDB in Test Driven Development.
+
 Learned:
 - Test Driven Developement. Think before coding
 - Create CRUD based functions to interact with database
