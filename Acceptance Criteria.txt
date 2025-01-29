@@ -10,10 +10,8 @@ Core Features
 	x.	Validate Customer Data:
 	x	Names must not contain invalid characters or be empty.
 	x	Phone numbers must be numeric and follow the format (e.g., 10 digits).
-
 	x.	Update Customer Details:
 	x	I can update a customer’s information (e.g., address or phone number).
-
 	x.	Delete a Customer:
 	x	I can delete an existing customer.
 	x	If a customer is deleted, they are removed from the database and no longer retrievable.
